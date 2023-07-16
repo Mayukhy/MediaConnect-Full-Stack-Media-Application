@@ -12,7 +12,7 @@ import {defineCliConfig} from 'sanity/cli'
 
 export default defineCliConfig({
   api: {
-    projectId: 'ayhihq4k',
+    projectId: 'your Id',
     dataset: 'mediaapp'
   }
 })
@@ -27,7 +27,7 @@ export default defineConfig({
   name: 'default',
   title: 'gold-heron',
 
-  projectId: 'ayhihq4k',
+  projectId: 'Your Id',
   dataset: 'mediaapp',
 
   plugins: [deskTool(), visionTool()],

@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'gold-heron',
 
-  projectId: 'ayhihq4k',
+  projectId: 'use your id',
   dataset: 'mediaapp',
 
   plugins: [deskTool(), visionTool()],

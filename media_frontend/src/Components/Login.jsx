@@ -29,7 +29,7 @@ export default function Login() {
 
 };
   return (
-    <GoogleOAuthProvider clientId='247185466987-5auomfk4sbgmr1ngjs0eoe2kbu12cacm.apps.googleusercontent.com'>
+    <GoogleOAuthProvider clientId='use your clientid'>
     <div style={{background:'linear-gradient(180deg, rgba(120,130,150,0.7108262108262109) 0%, rgba(21,2,52,0.5271358543417367) 100%)'}} className=' flex flex-col w-screen h-screen'>
     <div className=' flex justify-center gap-5'>
         <video  type='video/mp4' loop controls={false} autoPlay muted style={{zIndex:-1}} className=' absolute object-cover w-screen h-screen ' src={logVideo}/>

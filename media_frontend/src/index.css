@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: 'Lato',sans-serif;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+
+.bgimage{
+ display: none !important;
+}
+
+.bgimageActive{
+    display: initial !important;
+   }

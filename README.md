@@ -1,5 +1,5 @@
 # MediaConnect-Full-Stack-Media-Application
-A full stack media application where user can login by using there google accounts and post images with with title and details, can comment to a perticular post, can give reaction, can view profile page and much more
+A full stack media application where user can login by using there google accounts and post images and videos with title and details, can comment to a perticular post, can give reaction, can view profile page, can give status  and much more
 React js, Sanity.Io, Tailwind Css, MUI are used
 
 I have made a mistake that I deleted the media_backend repository and I can't recover that so I am giving some importent files along with media_frontend

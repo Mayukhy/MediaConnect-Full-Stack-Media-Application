@@ -38,19 +38,17 @@ export default defineConfig({
 })
 
   # screenshots
-![MediaConnect - Google Chrome 7_16_2023 10_34_16 PM](https://github.com/Mayukhy/MediaConnect-Full-Stack-Media-Application/assets/107027766/2b5e6d7a-39f4-48ab-8351-4b59940aec4c)
-
-![MediaConnect - Google Chrome 7_16_2023 10_35_17 PM](https://github.com/Mayukhy/MediaConnect-Full-Stack-Media-Application/assets/107027766/3af14dc9-65f5-4c94-8ee2-e1157361412d)
+![MediaConnect - Google Chrome 7_24_2023 1_55_59 PM](https://github.com/Mayukhy/MediaConnect-Full-Stack-Media-Application/assets/107027766/646825b8-6f6b-4608-a7c9-6f3f6fa54e7d)
 
 
-![MediaConnect - Google Chrome 7_16_2023 10_36_30 PM](https://github.com/Mayukhy/MediaConnect-Full-Stack-Media-Application/assets/107027766/afcadd7d-e486-4e38-a595-39bb8a678a7b)
+![MediaConnect - Google Chrome 7_20_2023 12_26_06 PM](https://github.com/Mayukhy/MediaConnect-Full-Stack-Media-Application/assets/107027766/074b7982-e36c-4e3a-8394-ba8f3cb11a89)
 
 
-![MediaConnect - Google Chrome 7_16_2023 10_38_17 PM](https://github.com/Mayukhy/MediaConnect-Full-Stack-Media-Application/assets/107027766/db0b9422-1cc1-48b7-802d-63fee0f6a69c)
+![MediaConnect - Google Chrome 7_24_2023 1_56_24 PM](https://github.com/Mayukhy/MediaConnect-Full-Stack-Media-Application/assets/107027766/f5e38440-e861-484f-95a6-be463be0431e)
 
 
-![MediaConnect - Google Chrome 7_16_2023 10_38_32 PM](https://github.com/Mayukhy/MediaConnect-Full-Stack-Media-Application/assets/107027766/6a9ddbd9-e47d-4e23-ab29-07d40b07d53d)
+![MediaConnect - Google Chrome 7_24_2023 1_57_13 PM](https://github.com/Mayukhy/MediaConnect-Full-Stack-Media-Application/assets/107027766/293a00e1-5078-49b2-a097-01bf596cdf29)
 
-
+![MediaConnect - Google Chrome 7_24_2023 1_57_29 PM](https://github.com/Mayukhy/MediaConnect-Full-Stack-Media-Application/assets/107027766/7a438d95-6c6a-4327-b6d0-20bd5a4535d2)
 
 
